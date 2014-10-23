@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f14.hw3</groupId>
 	<artifactId>hw3-junjiah</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<repositories>
 		<repository>
@@ -112,7 +112,7 @@
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw3-archetype/pom.xml</pomFileName>
+							<pomFileName>hw3-junjiah/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
@@ -120,8 +120,8 @@
 		</plugins>
 	</build>
 	<scm>
-		<connection>scm:git:git@github.com:EDFward/hw2-junjiah.git</connection>
-		<developerConnection>scm:git:git@github.com:EDFward/hw2-junjiah.git</developerConnection>
+		<connection>scm:git:git@github.com:EDFward/hw3-junjiah.git</connection>
+		<developerConnection>scm:git:git@github.com:EDFward/hw3-junjiah.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 </project>
